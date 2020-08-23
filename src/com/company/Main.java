@@ -11,7 +11,7 @@ public class Main {
         String p = scanner.nextLine();
         Integer pInt = Integer.parseInt(p);
 
-        System.out.print("Rate of Interest :");
+        System.out.print(" At what Rate of Interest :");
         String r = scanner.nextLine();
         float rInt = Float.parseFloat(r);
 
