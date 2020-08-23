@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the amount of your loan :  ");
+        System.out.print("Enter the  amount of your loan :  ");
         String p = scanner.nextLine();
         Integer pInt = Integer.parseInt(p);
 
@@ -16,7 +16,7 @@ public class Main {
         float rInt = Float.parseFloat(r);
 
 
-        System.out.print("Time (Years) :");
+        System.out.print("Time in  Years :");
         String t = scanner.nextLine();
         Integer tInt = Integer.parseInt(t);
 
